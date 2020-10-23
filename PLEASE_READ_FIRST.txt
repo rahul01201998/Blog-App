@@ -1,0 +1,18 @@
+* Technologies :- Html, Css, Jquery, Bootstrap, Ajax, Json, PHP (Codeigniter).
+
+* App Description :- This is a Blog application using Codeigniter, in that have two auth 'admin & guest'. 
+                     Admin user have rights to create, update, delete blogs.
+                     Guest user have no rights to create, update, delete blogs, guest user only view blogs. 
+
+* App Features :- Login / Logout.
+                  Create, Update, Read, Delete Blogs.
+                  Pagination.
+                  Search filter based on category.
+                  Two login users.
+
+* Login Credentials :- For Admin -> Username : admin, Password : admin@123.
+                       For Guest -> Username : guest,  Password : guest@123.  
+
+* I have attached sql file in sql_file folder. file name is "fyntune.sql". Also attached screenshots in screenshots folder.
+
+                                  Thanks & Regards, Rahul C. Nachare                  
